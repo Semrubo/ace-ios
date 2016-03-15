@@ -2,7 +2,7 @@
 //  StatusBar.m
 //  linphone
 //
-//  Created by Misha Torosyan on 3/14/16.
+//  Created by Ruben Semerjyan on 3/14/16.
 //
 //
 

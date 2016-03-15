@@ -2,7 +2,7 @@
 //  UICallCellDataNew.m
 //  linphone
 //
-//  Created by Misha Torosyan on 3/15/16.
+//  Created by Ruben Semerjyan on 3/15/16.
 //
 //
 
